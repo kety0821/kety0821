@@ -1,5 +1,8 @@
-## Hi there 👋
+## **Seja bem vindo** 🖤
 
+### Sou aluna da _Alura_ e aqui voce vera meus projetos
+
+![](https://media.tenor.com/8FZgZOXiYRQAAAAM/bts-kpop.gif)
 <!--
 **kety0821/kety0821** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
